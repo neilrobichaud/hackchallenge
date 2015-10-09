@@ -1,14 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/)
+# HackChallenge
 
-[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+HackChallenge is a template that students can clone or download to use in the Dreamspark Challenge Quest.
 
-## Getting Started
+To learn more about the Dreamspark Challenge - go to http://dreamsparkchallenge.azurewebsites.net/ and follow the steps to join Dreamspark and activate your website.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Did you know as a college student you are eligible for a program Microsoft has that provides you free software, learning, developer account and cloud access?
 
-## Bugs and Issues
+It is called DreamSpark. No cost. No catch. Just free.
+
+The challenge is to head on over to DreamSpark.com and create an account. Once your account is created, activate your Azure subscription and create a quick webiste.
+
+Sounds too hard? It's not. Follow the step by step guide below.
+
+http://dreamsparkchallenge.azurewebsites.net/
+
+![dreamspark](http://drew5.net/wp-content/uploads/2015/09/step-1.jpg)
+
+
+
+## Credits
+This template was created by Start Bootstrap. More specifically The Big Picture and IronMedia
+
+Start Bootstrap - http://startbootstrap.com/
+The Big Picture - http://startbootstrap.com/template-overviews/the-big-picture/
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
 
